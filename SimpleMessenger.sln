@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleMessenger", "SimpleMessenger.csproj", "{F81B1C3B-76C3-4003-8AB2-45BFD0A086BF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleMessengerServer", "..\SimpleMessengerServer\SimpleMessengerServer.csproj", "{19D384BF-4F54-44A8-A025-EBE8F9533048}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F81B1C3B-76C3-4003-8AB2-45BFD0A086BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F81B1C3B-76C3-4003-8AB2-45BFD0A086BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F81B1C3B-76C3-4003-8AB2-45BFD0A086BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F81B1C3B-76C3-4003-8AB2-45BFD0A086BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19D384BF-4F54-44A8-A025-EBE8F9533048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D384BF-4F54-44A8-A025-EBE8F9533048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D384BF-4F54-44A8-A025-EBE8F9533048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D384BF-4F54-44A8-A025-EBE8F9533048}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE29D9DE-8312-4828-B77B-3B3E0610A13E}
+	EndGlobalSection
+EndGlobal
